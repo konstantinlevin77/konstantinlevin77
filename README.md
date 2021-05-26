@@ -1,6 +1,6 @@
 ### Hi there, I am Mehmet 👋
 
-- 😄 I'm 16 years and studying in a science high school in Turkey!
+- 😄 I'm 17 years and studying in a science high school in Turkey!
 - 😍 My main interest is data science, especially machine learning, but I'm learning backend development in order to make my developing skills better.
 - 🔭 I’m currently working on my Pytorch projects, I want to specialize in Pytorch.
 - 🌱 I’m currently learning Java and React, to improve myself and make simple websites to my projects.
