@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on my Pytorch projects, I want to specialize in Pytorch.
 - 🌱 I’m currently learning Java and React, to improve myself and make simple websites to my projects.
 - ⚡ Fun fact: Writing code for hours makes me feel really happy and vigorous, it's like solving a puzzle!
+- 🎊 You can contact me from Matrix, my matrix address is @konstantinlevin:kde.org
+- 📧 I'd rather Matrix but if you're looking for an email, you can contact me with my email: tekmanmehmetyasar@protonmail.com com
 
 ## 👉👈 Github Stats
 
