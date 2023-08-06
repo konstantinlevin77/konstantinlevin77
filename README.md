@@ -31,5 +31,5 @@
 ![bruh](https://img.shields.io/static/v1?label=React&message=%20&color=61DAFB&logo=react&style=for-the-badge)
 
 ## 🥳 Visit my kaggle!
-**You can follow me on Kaggle as well, I'll follow you too!** [My Kaggle](https://www.kaggle.com/)
-
+* You can follow me on Kaggle as well! Here is my profile [my profile](https://www.kaggle.com/mehmetlaudatekman) link
+  * You can also check my Multiple Linear Regression tutorial on [Kaggle](https://www.kaggle.com/code/mehmetlaudatekman/tutorial-linear-regression-from-scratch)!
