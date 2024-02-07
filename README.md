@@ -2,9 +2,8 @@
 
 - 😄 I'm 18 years old and studying in Middle East Technical University!
 - 😍 My main interest is data science, especially machine learning.
-- 🔭 I also enjoy unix-like operating systems a lot.
-- ⚡ Fun fact: Writing code for hours makes me feel really happy and vigorous, it's like solving a puzzle!
-- 📧 You can contact me with my email: tekmanmehmetyasar@protonmail.com 
+- 🔭 I also enjoy unix-like operating systems a lot. (I was in love with GNU/Linux literally, but now using a mac and feeling guilty about it, not gonna lie xD)
+- 📧 You can contact me with my email: tekmanmehmetyasar@gmail.com 
 
 ## 👉👈 Github Stats
 
